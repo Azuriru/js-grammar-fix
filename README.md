@@ -1,0 +1,1 @@
+`console` is a support function so highlight it as one, damnit.
